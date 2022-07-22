@@ -1,0 +1,13 @@
+{
+	"bumguns": [
+		{
+			"id": 1,
+			"location": "",
+			"description": "",
+			"GIS": {
+				"lat": 0,
+				"long": 0
+			}
+		}
+	]
+}
