@@ -1,5 +1,5 @@
 {
-  "name": "Monorepo-Lerna-NX-Workspaces-Template",
+  "name": "tood",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,6 +23,7 @@
   ],
   "devDependencies": {
     "lerna": "^5.1.4",
-    "nx": "latest"
+    "nx": "14.4.3",
+    "@nrwl/nx-cloud": "latest"
   }
 }
